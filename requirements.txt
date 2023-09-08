@@ -1,2 +1,2 @@
-skodaconnect>=1.3.6
+skodaconnect @ git+https://github.com/jd1/skodaconnect@image
 homeassistant>=2023.3.0
